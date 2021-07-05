@@ -8,6 +8,7 @@ use std::cmp::Ordering;
 
 fn main() {
     println!("Hello, world!");
+    println!("今天懒得整理");
     // guess_game();
     ownership();
 }
